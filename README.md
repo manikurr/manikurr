@@ -1,328 +1,768 @@
 <div align="center">
+<!-- ====================================================== -->
+<!-- FUTURISTIC COVER                                      -->
+<!-- Save the generated cover as:                         -->
+<!-- assets/emmanuel-korir-cover.png                      -->
+<!-- ====================================================== -->
+<br/>
+<!-- ====================================================== -->
+<!-- INTRO                                                  -->
+<!-- ====================================================== -->
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=220&section=header&text=Emmanuel%20Korir&fontSize=48&fontColor=ffffff&animation=fadeIn&subtext=Senior%20Frontend%20Engineer%20%7C%20Digital%20Banking%20Specialist&subfontSize=18&subfontColor=d1d5db" width="100%" alt="Header Banner" />
+👋🏾 Emmanuel Korir
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=750&lines=Senior+Frontend+Engineer;Digital+Banking+%7C+Web+%7C+Mobile;7%2B+Years+Engineering+Experience;React+%E2%80%A2+Angular+%E2%80%A2+Kotlin+%E2%80%A2+Swift" alt="Typing SVG" />
+Senior Frontend & Mobile Engineer
 
-<!-- Quick Links & Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-korirm3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:korirm3@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-10B981?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nairobi)
-[![Portfolio](https://img.shields.io/badge/GitHub-KunziKurr-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/KunziKurr)
+FinTech · Platform Engineering · Application Security · AI
 
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&random=false&width=900&lines=Engineering+Bank-Grade+Digital+Experiences;Web+%E2%80%A2+Android+%E2%80%A2+iOS+%E2%80%A2+Backend;React+%E2%80%A2+Next.js+%E2%80%A2+Kotlin+%E2%80%A2+Swift;Security+%E2%80%A2+Architecture+%E2%80%A2+DevSecOps;Building+AI-Powered+Developer+Systems" alt="Typing SVG" />
+<br/>
 </div>
 
----
+⸻
 
-## About Me
+>_ whoami
 
-**Senior Frontend Engineer** with over 7 years of engineering leadership, specializing in architecting mission-critical digital banking platforms, enterprise web ecosystems, and high-performance native & cross-platform mobile applications.
+I’m a Senior Frontend & Mobile Engineer building secure, scalable and high-performance digital platforms across Web, Android and iOS.
 
-Holding a **BSc in Mathematics & Computer Science** from **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**, I currently lead technical direction and frontend architecture at **Co-operative Bank of Kenya**, crafting resilient, bank-grade platforms that serve over **1,000,000+ active users** and process **90,000+ daily financial transactions**.
+Most of my engineering career has been spent in FinTech and Digital Banking, building software where usability, security, reliability and performance aren’t optional.
 
-### What Drives Me
+My work sits at the intersection of:
 
-I am passionate about solving complex engineering challenges at the intersection of security, scalability, and pixel-perfect UX. Whether engineering multi-tenant banking platforms for 20+ SACCO institutions, implementing biometric security & certificate pinning, or optimizing checkout funnels for tens of thousands of merchant tills, I build software that makes digital financial services accessible, intuitive, and secure.
+Frontend Engineering
+        ×
+Mobile Engineering
+        ×
+Platform Architecture
+        ×
+Application Security
+        ×
+DevSecOps
+        ×
+AI Engineering
 
----
+I work across the stack when the problem demands it — from React and Next.js interfaces to native Kotlin/Swift applications, API integrations, CI/CD pipelines, application security, observability and AI-powered developer tooling.
 
-## Featured Projects
+I build interfaces like a frontend engineer, think about systems like a platform engineer, and ship software with security and production reliability in mind.
 
-<table>
-<tr>
-<td width="50%">
+⸻
 
-### Sacco Digital Banking
-**Enterprise Multi-Tenant Core Banking Platform**
+⚡ Engineering Snapshot
 
-Architected the core digital banking platform empowering over 50,000 customer members across 20+ independent SACCO financial institutions.
-
-**Impact:**
-- Unified multi-tenant architecture across web & mobile portals
-- Bank-grade security hardening: SSL pinning, end-to-end payload encryption & biometric login
-- Scaled to process thousands of real-time transactions with high availability
-
-**Tech Stack:** React, TypeScript, SCSS, REST APIs, Micro-frontends
-
-</td>
-<td width="50%">
-
-### Co-op Till & Merchant Ecosystem
-**Merchant Financial & Acquiring Solution**
-
-End-to-end merchant settlement, QR payment, and digital till platform serving storefronts and commercial enterprises across East Africa.
-
-**Impact:**
-- **50,000+** Play Store downloads with **10,000+** daily active merchants
-- Integrated ML Kit QR scanning for rapid, error-free customer payments
-- Slashed daily merchant ledger reconciliation friction by 80%
-
-**Tech Stack:** Kotlin, Jetpack Compose, Android SDK, REST APIs
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### YEA! Mobile Banking
-**Omnichannel Youth & Retail Banking App**
-
-Flagship consumer and youth banking application engineered for high engagement, goal-based savings, and everyday transacting.
-
-**Impact:**
-- **500,000+** total downloads across Android & iOS
-- Top-rated app store satisfaction: ⭐ **4.6** App Store & ⭐ **4.5** Google Play
-- Unified design system, reusable cross-platform components, and automated CI/CD releases
-
-**Tech Stack:** Kotlin, Swift, SwiftUI, React Native, Capacitor
-
-</td>
-<td width="50%">
-
-### M-CoopCash & Digital Banking Suite
-**High-Volume Core Retail Banking**
-
-Omnichannel digital banking engine delivering essential financial services to millions of retail clients nationwide.
-
-**Impact:**
-- Serves **1,000,000+** registered users with **90,000+** daily transactions
-- Sustained ⭐ **4.8** rating across major app marketplaces
-- Native camera modules for optical character recognition, check deposits & KYC verification
-
-**Tech Stack:** Kotlin, Swift, React Native, Java, Spring Boot
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Frontend Development
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-<br>Angular
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-<br>Redux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-<br>Sass/SCSS
-</td>
-</tr>
-</table>
-
-### Mobile Engineering
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-<br>Kotlin
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
-<br>Swift
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android" />
-<br>Android
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="iOS" />
-<br>iOS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-<br>Flutter
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-<br>React Native
-</td>
-</tr>
-</table>
-
-### Backend & Cloud
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
-<br>Spring Boot
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br>PHP
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-<br>GraphQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-</tr>
-</table>
-
-### DevOps & Tooling
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure DevOps" />
-<br>Azure
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-<br>Jenkins
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunziKurr&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KunziKurr&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Streak Stats" />
-</div>
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunziKurr&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=KunziKurr&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## Current Focus & Interests
-
-```javascript
 const emmanuel = {
-    role: "Senior Frontend Engineer @ Co-operative Bank of Kenya",
-    experience: "7+ Years in Digital Banking & Enterprise Systems",
-    location: "Nairobi, Kenya 🇰🇪",
-    education: "BSc Mathematics & Computer Science (JKUAT)",
-    focusAreas: ["Frontend Architecture", "Mobile Engineering (Android & iOS)", "FinTech Security"],
-    currentWork: [
-        "Multi-Tenant SACCO Core Banking Platform (50K+ customers, 20+ institutions)",
-        "Co-op Till Merchant Acquiring Suite (10K+ active merchants)",
-        "Next-Generation Corporate & Retail Web Banking Architecture"
+  role: "Senior Frontend & Mobile Engineer",
+  location: "Nairobi, Kenya 🇰🇪",
+  experience: "7+ years",
+  domains: [
+    "FinTech",
+    "Digital Banking",
+    "Enterprise Platforms",
+    "Platform Engineering",
+    "AI & Agentic Systems"
+  ],
+  web: {
+    core: [
+      "React",
+      "Next.js",
+      "TypeScript"
     ],
-    architecture: ["Micro-frontends", "Clean Architecture", "Certificate Pinning", "Biometrics"],
-    passions: ["High-Volume Financial Tech", "Sub-second Performance", "Pixel-perfect UIs"],
-    funFact: "Shipped banking apps trusted by 1,000,000+ daily active users 🚀"
+    state: [
+      "Redux Toolkit",
+      "Zustand"
+    ],
+    ui: [
+      "Tailwind CSS",
+      "SCSS",
+      "Shadcn UI"
+    ],
+    testing: [
+      "Jest",
+      "React Testing Library",
+      "Cypress",
+      "Playwright"
+    ]
+  },
+  android: [
+    "Kotlin",
+    "Jetpack Compose",
+    "Coroutines",
+    "Flow",
+    "Hilt",
+    "Ktor",
+    "CameraX",
+    "ML Kit"
+  ],
+  ios: [
+    "Swift",
+    "SwiftUI",
+    "LocalAuthentication",
+    "Keychain",
+    "App Attest",
+    "DeviceCheck"
+  ],
+  crossPlatform: [
+    "React Native",
+    "Capacitor",
+    "Cordova"
+  ],
+  backend: [
+    "Node.js",
+    "NestJS",
+    "FastAPI",
+    "Ktor",
+    "REST",
+    "SOAP"
+  ],
+  security: [
+    "Certificate Pinning",
+    "Biometrics",
+    "Android Keystore",
+    "iOS Keychain",
+    "Play Integrity",
+    "App Attest",
+    "Secure CI/CD",
+    "OWASP"
+  ],
+  platform: [
+    "Docker",
+    "Jenkins",
+    "GitHub",
+    "SonarQube",
+    "GuardSquare",
+    "MobSF",
+    "OpenTelemetry"
+  ],
+  ai: [
+    "LLM Applications",
+    "AI Agents",
+    "MCP",
+    "Local AI",
+    "Ollama",
+    "Workflow Automation"
+  ],
+  philosophy:
+    "Build secure systems. Keep the UX simple. Automate everything else."
 };
-```
 
----
+⸻
 
-## Beyond Code
-
-<div align="center">
+🧠 What I Do
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI3NjZ3YzRhMWVpZ3p3eDRmYnN2Ym5rZGF5NXkycTBjZnZrZzJ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlvseq9yvZhba/giphy.gif" width="100" /><br>
-<b>FinTech Innovation</b><br>
-Scaling financial systems
+<td width="50%" valign="top">
+
+🌐 Web Engineering
+
+Building large-scale web applications and reusable frontend platforms.
+
+* React
+* Next.js
+* TypeScript
+* Design Systems
+* State Architecture
+* Micro-frontends
+* Accessibility
+* Performance Engineering
+* E2E Testing
+* Observability
+
 </td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM3YzM3ZzJ6YjJ6aGVpbnZ5OHF5YzBxbGJ5M2Z4NXdzcWQwZ3RxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWH5iJhUtTAHcSaZTI/giphy.gif" width="100" /><br>
-<b>System Architecture</b><br>
-Designing for scale & speed
+<td width="50%" valign="top">
+
+📱 Mobile Engineering
+
+Building production-grade Android and iOS applications.
+
+* Kotlin
+* Jetpack Compose
+* Swift
+* SwiftUI
+* React Native
+* Capacitor
+* CameraX
+* ML Kit
+* Push Notifications
+* Native Integrations
+
 </td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl5dzJ3aGl2Y2V4M2hxN3BhYmJ6NGdyZWlrOTlhYTBvNjYzYmNhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ae7SI3LoPYj8Q/giphy.gif" width="100" /><br>
-<b>Team Mentorship</b><br>
-Fostering engineering culture
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🛡️ Application Security
+
+Security is part of the architecture — not a final release checkbox.
+
+* SSL / Certificate Pinning
+* Payload Encryption
+* Android Keystore
+* iOS Keychain
+* Biometrics
+* Play Integrity
+* App Attest
+* Runtime Protection
+* SAST / DAST / SCA
+* Shift-Left Security
+
 </td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVycjh1ejFydnBtcHBraWZiOXNxazhlN3kyOTRsMXc2YjV5NDFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /><br>
-<b>Continuous Learning</b><br>
-Mastering emerging tech
+<td width="50%" valign="top">
+
+⚙️ Platform & DevSecOps
+
+Engineering the systems around the application.
+
+* Jenkins CI/CD
+* GitHub Workflows
+* Docker
+* Automated Testing
+* Security Gates
+* SonarQube
+* MobSF
+* GuardSquare
+* OpenTelemetry
+* Release Automation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🔌 Backend & Integration
+
+Moving beyond the client when architecture requires it.
+
+* Node.js
+* NestJS
+* FastAPI
+* Ktor
+* REST APIs
+* SOAP Services
+* Authentication
+* API Gateways
+* Integration Architecture
+
+</td>
+<td width="50%" valign="top">
+
+🤖 AI Engineering
+
+Exploring intelligent systems and AI-native software engineering.
+
+* LLM Applications
+* AI Agents
+* MCP
+* Local Models
+* Ollama
+* RAG
+* Workflow Automation
+* Developer Agents
+* Multi-Agent Systems
+
 </td>
 </tr>
 </table>
 
-</div>
+⸻
 
----
-
-## Let's Connect
+🛠️ Technology Arsenal
 
 <div align="center">
 
-I'm always open to discussing digital banking architecture, frontend leadership, or high-impact engineering opportunities.
+🌐 Web & Frontend
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:korirm3@gmail.com)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,html,css&perline=9" />
+<br/>
 
-<br><br>
+📱 Android & iOS
 
-<img src="https://komarev.com/ghpvc/?username=KunziKurr&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,apple,gradle,firebase&perline=6" />
+<br/>
+
+⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,java,spring,postgres,mysql,mongodb&perline=9" />
+<br/>
+
+🚀 Platform & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,jenkins,github,git,githubactions,azure,linux,nginx&perline=8" />
+<br/>
+
+🧰 Engineering Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,bash,md&perline=6" />
+</div>
+
+⸻
+
+🚀 Selected Engineering Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🏦 Digital Banking Platform
+
+Engineering secure banking experiences across Web, Android and iOS.
+
+Capabilities
+
+Onboarding
+
+KYC
+
+OTP
+
+Statements
+
+Transfers
+
+Payments
+
+Loans
+
+Card Services
+
+Engineering Focus
+
+* Secure authentication
+* Native Android & iOS integrations
+* Reusable frontend architecture
+* High-volume transaction UX
+* Performance & reliability
+* CI/CD delivery
+* Application security
+
+Stack
+
+React Next.js TypeScript Kotlin Swift
+
+</td>
+<td width="50%" valign="top">
+
+💳 SACCO Digital Ecosystem
+
+Multi-tenant digital banking platform supporting multiple financial institutions from a shared engineering foundation.
+
+Engineering Focus
+
+* Multi-tenant architecture
+* Institution-specific theming
+* Shared components
+* Android + Web delivery
+* Secure device identity
+* SSL pinning
+* Runtime protection
+* Automated security scanning
+
+Stack
+
+React TypeScript Kotlin Jetpack Compose GuardSquare
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🧾 Merchant Payments Platform
+
+Native Android merchant banking and payment experiences supporting digital tills and merchant transactions.
+
+Engineering Focus
+
+* Native Android architecture
+* QR payment journeys
+* ML Kit integrations
+* Secure transaction UX
+* Device security
+* Merchant workflows
+* Settlement experiences
+
+Stack
+
+Kotlin Jetpack Compose ML Kit REST
+
+</td>
+<td width="50%" valign="top">
+
+🪪 Digital Onboarding
+
+End-to-end digital customer onboarding covering identity, KYC and account-opening journeys.
+
+Engineering Focus
+
+* Multi-step onboarding architecture
+* Identification & KYC
+* Document capture
+* Address information
+* Financial details
+* Account funding
+* Mobile banking enrollment
+* Secure API integration
+
+Stack
+
+Next.js React TypeScript Redux Toolkit
+
+</td>
+</tr>
+</table>
+
+⸻
+
+🛡️ Secure by Design
+
+                         USER
+                          │
+                          ▼
+              ┌───────────────────────┐
+              │    USER EXPERIENCE    │
+              └───────────┬───────────┘
+                          │
+                          ▼
+              ┌───────────────────────┐
+              │   APPLICATION LAYER   │
+              │                       │
+              │ Web │ Android │ iOS   │
+              └───────────┬───────────┘
+                          │
+                          ▼
+        ┌────────────────────────────────────┐
+        │         SECURITY CONTROLS          │
+        │                                    │
+        │ TLS Pinning       Device Integrity │
+        │ Biometrics        Secure Storage   │
+        │ Encryption        App Hardening    │
+        │ AuthN / AuthZ     Runtime Security │
+        └──────────────────┬─────────────────┘
+                           │
+                           ▼
+              ┌───────────────────────┐
+              │    APIs & SERVICES    │
+              └───────────┬───────────┘
+                          │
+                          ▼
+        ┌────────────────────────────────────┐
+        │          CI/CD + DEVSECOPS         │
+        │                                    │
+        │ SAST │ SCA │ DAST │ Tests │ Gates │
+        └────────────────────────────────────┘
+
+For financial applications, security isn’t something I bolt on before production.
+
+It starts with the architecture.
+
+⸻
+
+🔐 Security Engineering Toolbox
+
+<div align="center">
+</div>
+Commit
+  │
+  ├── Unit Tests
+  │
+  ├── Linting
+  │
+  ├── SAST
+  │
+  ├── Dependency Scanning
+  │
+  ├── Mobile Security Scanning
+  │
+  ├── Quality Gates
+  │
+  └── Build
+        │
+        ▼
+      Deploy
+        │
+        ▼
+     Observe
+
+⸻
+
+📡 Observability & Reliability
+
+Production software should be observable.
+
+My focus includes:
+
+Application
+    │
+    ├── Logs
+    ├── Metrics
+    ├── Traces
+    ├── Errors
+    └── User Experience
+         │
+         ▼
+    OpenTelemetry
+         │
+         ▼
+    Observability Platform
+
+Areas of interest:
+
+* Distributed tracing
+* Application metrics
+* Frontend telemetry
+* Mobile telemetry
+* Error monitoring
+* Performance monitoring
+* Production diagnostics
+* Real-user monitoring
+
+⸻
+
+🤖 AI-Native Engineering
+
+My current engineering interests increasingly extend beyond traditional application development into AI-native software engineering.
+
+                         HUMAN
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │   AI COMMAND LAYER  │
+                └──────────┬──────────┘
+                           │
+           ┌───────────────┼───────────────┐
+           │               │               │
+           ▼               ▼               ▼
+      Coding Agent    Security Agent   Research Agent
+           │               │               │
+           └───────────────┬───────────────┘
+                           │
+                           ▼
+                    MCP / TOOLS
+                           │
+          ┌────────────────┼─────────────────┐
+          │                │                 │
+          ▼                ▼                 ▼
+        GitHub          CI/CD             APIs
+          │                │                 │
+          └────────────────┼─────────────────┘
+                           │
+                           ▼
+                  LOCAL + CLOUD LLMs
+
+Currently exploring
+
+Agentic AI
+
+Model Context Protocol
+
+Local LLMs
+
+AI Developer Platforms
+
+RAG
+
+Workflow Automation
+
+Multi-Agent Systems
+
+AI-assisted SDLC
+
+Developer Agents
+
+Autonomous Engineering Workflows
+
+The interesting question isn’t simply:
+
+“How can AI write code?”
+
+It’s:
+
+“How do we engineer software organizations where humans and specialized AI agents work together effectively?”
+
+⸻
+
+🧪 Local AI Lab
+
+┌─────────────────────────────────────────────┐
+│                 AI WORKSPACE                │
+├─────────────────────────────────────────────┤
+│                                             │
+│  Ollama                                     │
+│     │                                       │
+│     ├── Local LLMs                          │
+│     └── Embedding Models                    │
+│                                             │
+│  MCP                                        │
+│     │                                       │
+│     ├── Developer Tools                     │
+│     ├── APIs                                │
+│     └── External Systems                    │
+│                                             │
+│  Agent Runtime                              │
+│     │                                       │
+│     ├── Research                            │
+│     ├── Coding                              │
+│     ├── Security                            │
+│     └── Automation                          │
+│                                             │
+└─────────────────────────────────────────────┘
+
+I’m particularly interested in keeping AI systems useful, composable and tool-driven rather than treating the LLM as the entire architecture.
+
+⸻
+
+🧬 Engineering DNA
+
+╭──────────────────────────────────────────────╮
+│                                              │
+│   BUILD     → Secure                         │
+│   DESIGN    → Simple                         │
+│   TEST      → Continuously                   │
+│   DEPLOY    → Automatically                  │
+│   OBSERVE   → Everything                     │
+│   SCALE     → Intentionally                  │
+│   AUTOMATE  → Repetition                     │
+│   LEARN     → Constantly                     │
+│                                              │
+╰──────────────────────────────────────────────╯
+
+⸻
+
+🧭 Engineering Principles
+
+01. Security starts at the first commit.
+02. Architecture should reduce complexity —
+    not advertise it.
+03. Automate repetitive engineering work.
+04. Observability belongs in the product.
+05. Performance is a feature.
+06. Mobile deserves first-class engineering.
+07. Tests should give teams confidence to ship.
+08. Good abstractions make the next feature cheaper.
+09. Developer experience affects product quality.
+10. Ship → Measure → Learn → Improve.
+
+⸻
+
+📊 GitHub Analytics
+
+<div align="center">
+</div>
+<br/>
+<div align="center">
+</div>
+
+⸻
+
+🐍 Contribution Stream
+
+<div align="center">
+</div>
+
+The contribution snake requires a GitHub Action to generate the SVG into the output branch.
+
+⸻
+
+🔭 Where I’m Heading
+
+flowchart LR
+    WEB["🌐 Web"]
+    ANDROID["🤖 Android"]
+    IOS["🍎 iOS"]
+    BACKEND["⚙️ Backend"]
+    WEB --> PLATFORM
+    ANDROID --> PLATFORM
+    IOS --> PLATFORM
+    BACKEND --> PLATFORM
+    PLATFORM["⚡ Platform Engineering"]
+    SECURITY["🛡️ Security"] --> PLATFORM
+    DEVOPS["🚀 DevSecOps"] --> PLATFORM
+    OBS["📡 Observability"] --> PLATFORM
+    PLATFORM --> AI["🧠 AI-Native Engineering"]
+    AI --> AGENTS["🤖 Agentic Systems"]
+    AI --> DX["🛠 Developer Experience"]
+    AI --> AUTO["⚙️ Automation"]
+    AI --> INTEL["💡 Intelligent Products"]
+
+My engineering trajectory is increasingly moving toward the intersection of:
+
+Application Engineering × Platform Architecture × Security × AI
+
+while remaining hands-on with the thing that started it all:
+
+building great software.
+
+⸻
+
+🎯 Current Focus
+
+engineering:
+  web:
+    - Next.js
+    - React
+    - TypeScript
+  mobile:
+    - Kotlin
+    - Jetpack Compose
+    - Swift
+    - SwiftUI
+  architecture:
+    - Platform Engineering
+    - Multi-Tenant Systems
+    - Design Systems
+    - Secure Application Architecture
+  security:
+    - DevSecOps
+    - Mobile Application Security
+    - Runtime Protection
+    - Device Integrity
+  reliability:
+    - OpenTelemetry
+    - Observability
+    - Automated Testing
+  ai:
+    - Agentic Systems
+    - MCP
+    - Local LLMs
+    - AI Automation
+    - Developer Agents
+
+⸻
+
+💡 Things I Enjoy Building
+
+<div align="center">
+
+🏦 FinTech	📱 Mobile	🌐 Web	🛡️ Security
+Digital Banking	Android	Next.js	DevSecOps
+Payments	iOS	React	App Security
+Onboarding	Kotlin	TypeScript	Hardening
+Merchant Systems	Swift	Design Systems	Secure Architecture
+🤖 AI	⚙️ Platform	📡 Reliability	🧑🏾‍💻 DX
+AI Agents	CI/CD	Observability	Tooling
+MCP	Automation	Telemetry	Standards
+Local LLMs	Containers	Monitoring	Architecture
+RAG	Security Gates	Diagnostics	Automation
 
 </div>
 
+⸻
+
+🤝 Let’s Build
+
+I’m particularly interested in engineering problems involving:
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
+</div>
+<br/>
+<div align="center">
+
+Build secure. Ship confidently. Scale intelligently.
+
+<br/>
+
+< Ideas → Architecture → Code → Impact />
+
+<sub>
+Building secure digital experiences, scalable platforms and intelligent engineering systems.
+</sub>
 </div>
