@@ -1,38 +1,38 @@
 <div align="center">
   <a href="https://github.com/manikurr">
-    <img src="./assets/header_banner.png" alt="Emmanuel Korir Banner" width="100%" style="width: 100%; height: auto; display: block; border-radius: 12px;" border="0">
+    <img src="./assets/header_banner.png" alt="Emmanuel Korir - Silicon Savannah" width="100%" style="width: 100%; height: auto; display: block; border-radius: 12px;" border="0">
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://emmanuelkorir.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"></a> &nbsp;
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
-  <a href="mailto:korirm3@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
-  <a href="https://emmanuelkorir.dev"><img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=read-the-docs&logoColor=white"></a>
+  <a href="https://emmanuelkorir.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=f59e0b"></a> &nbsp;
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=38bdf8"></a> &nbsp;
+  <a href="mailto:korirm3@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ea580c"></a> &nbsp;
+  <a href="https://emmanuelkorir.dev"><img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=read-the-docs&logoColor=10b981"></a>
 </div>
 
 <br>
 
 <details open>
-<summary><b>Hey there! I'm Emmanuel 👋</b></summary>
+<summary><b>Hey there! I'm Emmanuel 👋 • Silicon Savannah 🇰🇪</b></summary>
 <br>
 
 <table width="100%" style="width: 100%;">
   <tr>
     <td width="72%" valign="top">
-      <b>Senior Frontend & Mobile Engineer</b> (FinTech & Platform)<br><br>
-      I am based in Nairobi, Kenya and deeply passionate about crafting minimalist, high-performance web applications and building efficient automated workflows.<br><br>
-      Currently, I'm focusing my energy on building <b>Digital Banking Systems</b>, <b>SACCO Platforms</b>, and <b>Agentic Developer Systems</b>. My technical playground revolves around <b>React, Next.js, Kotlin, Jetpack Compose, Swift, and AI Workflows</b>. Whether it's designing secure banking architectures or orchestrating multi-agent pipelines, I enjoy turning complex enterprise problems into seamless digital experiences.
+      <b>Senior Frontend & Mobile Engineer</b> • <i>Silicon Savannah (Nairobi, Kenya 🇰🇪)</i><br><br>
+      Engineering from Nairobi — the heart of Africa's <b>Silicon Savannah</b> and the global cradle of mobile money innovation (M-Pesa). I build bank-grade digital platforms, resilient mobile architectures, and agentic systems where security, scale, and performance are mission-critical.<br><br>
+      Currently architecting <b>Digital Banking Systems</b>, multi-tenant <b>SACCO Ecosystems</b>, and <b>Autonomous AI Workflows</b> across Web, Android, and iOS. My technical playground revolves around <b>React, Next.js, Kotlin, Jetpack Compose, Swift, and AI Multi-Agent Pipelines</b>. Whether it's biometrics and TLS pinning or designing scalable distributed client platforms, I enjoy turning complex enterprise problems into seamless digital experiences.
     </td>
     <td width="28%" align="center" valign="middle">
-      <img src="./assets/saturn.png" alt="Saturn" style="width: 100%; max-width: 180px; display: block;" />
+      <img src="./assets/saturn.png" alt="Silicon Savannah Celestial Orb" style="width: 100%; max-width: 180px; display: block;" />
     </td>
   </tr>
 </table>
 
-<img src="./assets/divider.png" alt="Cosmic Divider" width="100%" style="height: 6px; display: block; border-radius: 4px; margin-top: 10px;" />
+<img src="./assets/divider.png" alt="Silicon Savannah Divider" width="100%" style="height: 6px; display: block; border-radius: 4px; margin-top: 10px;" />
 
 </details>
 
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>
-      💳 <b>SACCO Digital Ecosystem</b> — Multi-tenant digital financial platform serving cooperative societies from a shared, highly configurable component foundation.
+      💳 <b>SACCO Digital Ecosystem</b> — Multi-tenant digital financial platform serving cooperative societies across East Africa from a shared, highly configurable component foundation.
     </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@
 ```typescript
 const emmanuel = {
   role:       "Senior Frontend & Mobile Engineer",
-  location:   "Nairobi, Kenya 🇰🇪",
+  hub:        "Silicon Savannah • Nairobi, Kenya 🇰🇪",
   experience: "7+ years",
   domains:    ["FinTech", "Digital Banking", "Enterprise Platforms", "DevSecOps", "AI Agents"],
 
@@ -112,20 +112,20 @@ const emmanuel = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=manikurr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=38bdf8&text_color=c9d1d9&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=manikurr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=10b981&text_color=c9d1d9&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikurr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9&langs_count=6" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manikurr&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manikurr&theme=tokyonight&hide_border=true&background=0d1117&ring=f59e0b&fire=ea580c&currStreakLabel=10b981" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/divider.png" alt="Cosmic Divider" width="100%" style="height: 6px; display: block; border-radius: 4px;" />
+  <img src="./assets/divider.png" alt="Silicon Savannah Divider" width="100%" style="height: 6px; display: block; border-radius: 4px;" />
   <br>
-  <sub><b>Build secure. Ship confidently. Scale intelligently.</b></sub><br>
-  <sub>© Emmanuel Korir • Nairobi, Kenya</sub>
+  <sub><b>Crafted with bank-grade security & African engineering excellence.</b></sub><br>
+  <sub>© Emmanuel Korir • Silicon Savannah, Nairobi 🇰🇪</sub>
 </div>
